@@ -1,7 +1,9 @@
 {
-  "hiddenPanels": [],
+  "hiddenPanels": [
+    "skin"
+  ],
   "disableSkinApply": false,
-  "announcement": "JIBE TESTING LANG BRO",
+  "announcement": "TATANGGALIN KO YUNG SKIN EDITOR AHH",
   "maintenance": false,
-  "maintenanceMessage": "server restart in 20 minutes"
+  "maintenanceMessage": ""
 }
