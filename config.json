@@ -1,5 +1,6 @@
 {
   "hiddenPanels": [
+    "tokens",
     "skin"
   ],
   "disableSkinApply": false,
