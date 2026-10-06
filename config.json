@@ -4,7 +4,16 @@
     "skin"
   ],
   "disableSkinApply": false,
-  "announcement": "CTRL M TO OPEN/HIDE MENU BAR\nCLICK INFO BUTTON IN F7 FOR MORE INFO.",
+  "announcement": "",
   "maintenance": false,
-  "maintenanceMessage": ""
+  "maintenanceMessage": "",
+  "discordInvite": "https://discord.gg/bYQsvTEMcF",
+  "discordClientId": "1557121400383344642",
+  "discordGuildId": "1535610155641868358",
+  "skinRoles": [
+    {
+      "id": "1539734790549409913",
+      "name": "Titan"
+    }
+  ]
 }
