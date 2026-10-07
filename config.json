@@ -13,8 +13,8 @@
   "discordLogo": "",
   "discordBanner": "https://raw.githubusercontent.com/baruyjp-dot/dinohub-overlay-releases/main/assets/discord-banner.jpg?v=7054f1d7f3",
   "theme": {
-    "accent": "#e8961c",
-    "accent2": "#ffd166",
+    "accent": "#ff3bbd",
+    "accent2": "#ff8ad8",
     "glow": 50,
     "border": 50
   }
