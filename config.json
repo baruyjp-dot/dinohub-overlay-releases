@@ -10,14 +10,9 @@
   "discordInvite": "https://discord.gg/bYQsvTEMcF",
   "discordClientId": "1557121400383344642",
   "discordGuildId": "1535610155641868358",
-  "skinRoles": [
-    {
-      "id": "1539734790549409913",
-      "name": "Titan"
-    }
-  ],
+  "skinRoles": [],
   "discordLogo": "",
-  "discordBanner": "https://raw.githubusercontent.com/baruyjp-dot/dinohub-overlay-releases/main/assets/discord-banner.jpg?v=775dbd32ca",
+  "discordBanner": "https://raw.githubusercontent.com/baruyjp-dot/dinohub-overlay-releases/main/assets/discord-banner.jpg?v=7054f1d7f3",
   "theme": {
     "accent": "#9b3bff",
     "accent2": "#c65bff",
