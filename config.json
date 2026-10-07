@@ -1,7 +1,6 @@
 {
   "hiddenPanels": [
-    "tokens",
-    "skin"
+    "tokens"
   ],
   "disableSkinApply": false,
   "announcement": "",
@@ -14,9 +13,9 @@
   "discordLogo": "",
   "discordBanner": "https://raw.githubusercontent.com/baruyjp-dot/dinohub-overlay-releases/main/assets/discord-banner.jpg?v=7054f1d7f3",
   "theme": {
-    "accent": "#9b3bff",
-    "accent2": "#c65bff",
-    "glow": 55,
+    "accent": "#ff3b5c",
+    "accent2": "#ff8a5b",
+    "glow": 50,
     "border": 50
   }
 }
