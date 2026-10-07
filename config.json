@@ -15,5 +15,13 @@
       "id": "1539734790549409913",
       "name": "Titan"
     }
-  ]
+  ],
+  "discordLogo": "",
+  "discordBanner": "https://raw.githubusercontent.com/baruyjp-dot/dinohub-overlay-releases/main/assets/discord-banner.jpg?v=775dbd32ca",
+  "theme": {
+    "accent": "#9b3bff",
+    "accent2": "#c65bff",
+    "glow": 55,
+    "border": 50
+  }
 }
