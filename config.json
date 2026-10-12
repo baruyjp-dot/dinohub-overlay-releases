@@ -21,7 +21,7 @@
   "park": {
     "enabled": true,
     "cooldownMin": 0,
-    "minHealth": 90,
+    "minHealth": 100,
     "minGrowth": 30
   }
 }
