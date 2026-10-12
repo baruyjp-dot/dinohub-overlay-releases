@@ -17,5 +17,11 @@
     "accent2": "#ff8ad8",
     "glow": 50,
     "border": 50
+  },
+  "park": {
+    "enabled": true,
+    "cooldownMin": 0,
+    "minHealth": 90,
+    "minGrowth": 30
   }
 }
